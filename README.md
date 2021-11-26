@@ -6,3 +6,5 @@ For exercise 1, we had received our token with the ticker this token had to be p
 For the rest of the exercise we used the new contact, from exercise 2 to 9, we had to use a contract that we had created and modified in order to be able to answer the "requires" requested. In this way, on Vs Code we could see these requirements and adapt ourselves accordingly.
 
 We can our new contract in contract files : ERCTkn.sol .
+
+In the .js file, for the deployment, we also added for example the wallet address etc. but the most important being the name of the token and the associated value.
